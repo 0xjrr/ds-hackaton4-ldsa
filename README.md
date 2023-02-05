@@ -1,1 +1,1 @@
-# Hackaton_LDSA04
+Everything you need to know is in this [link](https://docs.google.com/document/d/1hJZJ8bYSMVcovKWfOfYdhCFbrDrkdNdi1tX4lmLs9LM/edit).
