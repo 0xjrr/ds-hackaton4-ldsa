@@ -110,15 +110,15 @@ others
 others
 others
 others
-transfer
+others
 others
 transfer
 others
 others
 card
 card
-others
 card
+others
 card
 card
 card
@@ -167,8 +167,8 @@ card
 others
 others
 card
-others
 others
+card
 others
 others
 others
@@ -195,7 +195,7 @@ others
 others
 others
 others
-security
+others
 card
 card
 card
@@ -278,7 +278,7 @@ others
 others
 transfer
 transfer
-transfer
+others
 transfer
 transfer
 transfer
@@ -319,7 +319,7 @@ cash
 cash
 cash
 card
-transfer
+others
 card
 card
 card
@@ -328,7 +328,7 @@ card
 card
 card
 card
-transfer
+others
 card
 card
 others
@@ -344,9 +344,9 @@ transfer
 transfer
 transfer
 transfer
-others
 transfer
 transfer
+transfer
 others
 transfer
 transfer
@@ -393,9 +393,9 @@ others
 others
 others
 others
-cash
 cash
 cash
+others
 cash
 cash
 cash
@@ -432,7 +432,7 @@ security
 security
 security
 security
-others
+security
 security
 security
 security
@@ -461,7 +461,7 @@ others
 others
 others
 others
-card
+security
 card
 card
 security
@@ -509,18 +509,18 @@ card
 card
 others
 others
-transfer
+others
 card
 others
 card
 card
 others
-cash
 others
+others
 card
 cash
 others
-card
+others
 cash
 others
 others
@@ -654,7 +654,7 @@ card
 card
 card
 card
-transfer
+others
 transfer
 transfer
 transfer
@@ -688,7 +688,6 @@ others
 others
 others
 others
-card
 others
 others
 others
@@ -709,6 +708,7 @@ others
 others
 others
 others
+others
 transfer
 others
 others
@@ -732,7 +732,7 @@ card
 card
 card
 card
-transfer
+others
 card
 card
 card
@@ -754,9 +754,9 @@ security
 security
 transfer
 others
-transfer
 others
 others
+transfer
 others
 transfer
 others
@@ -798,7 +798,6 @@ transfer
 transfer
 transfer
 others
-transfer
 transfer
 transfer
 transfer
@@ -809,6 +808,7 @@ transfer
 transfer
 transfer
 transfer
+others
 transfer
 transfer
 transfer
@@ -903,7 +903,7 @@ card
 others
 others
 card
-card
+others
 card
 card
 card
@@ -943,7 +943,6 @@ cash
 others
 others
 others
-security
 others
 others
 others
@@ -952,9 +951,10 @@ others
 others
 others
 others
-card
+others
 card
 card
+others
 card
 card
 card
@@ -986,7 +986,7 @@ cash
 cash
 cash
 cash
-cash
+others
 cash
 cash
 cash
